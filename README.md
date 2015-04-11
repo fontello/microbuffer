@@ -18,7 +18,7 @@ This library was written for fontello's font convertors -
 API
 ---
 
-### Consctructor
+### Constructor
 
 - `new MicroBuffer(microbuffer [, offset, length])` - wrap MicroBuffer
   instanse, sharing the same data.

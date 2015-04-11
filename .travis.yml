@@ -3,7 +3,4 @@ node_js:
   - '0.10'
   - '0.12'
   - iojs
-addons:
-  apt_packages:
-    - net-tools
 sudo: false

@@ -1,6 +1,6 @@
 {
   "name": "microbuffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Light implementation of binary buffer with helpers for easy access.",
   "keywords": [
     "buffer"
