@@ -7,12 +7,15 @@ microbuffer
 > Light implementation of binary buffer with helpers for easy access.
 
 This library was written for fontello's font convertors -
-[svg2ttf](https://github.com/fontello/svg2ttf)
-[ttf2woff](https://github.com/fontello/ttf2woff)
+[svg2ttf](https://github.com/fontello/svg2ttf),
+[ttf2woff](https://github.com/fontello/ttf2woff),
 [ttf2eot](https://github.com/fontello/ttf2eot). Main features are:
 - good speed & compact size (no dependencies)
 - transparent typed arrays support in browsers
 - methods to simplify binary data read/write
+
+Since the goals of this package are specific, it is not recommended for use in
+other projects.
 
 
 API
